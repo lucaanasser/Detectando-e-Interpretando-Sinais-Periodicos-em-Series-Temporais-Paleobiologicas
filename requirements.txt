@@ -4,8 +4,8 @@ numpy
 matplotlib
 pathlib
 ipykernel
-jupyter
-
+jupyter 
+scipy
 # para instalar as dependências, execute o seguinte comando no terminal:
 # pip install -r requirements.txt
 # prefira usar um ambiente virtual para instalar as dependências
